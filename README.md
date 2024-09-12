@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at [Elrond Network](https://github.com/ElrondNetwork)<br>
+🔭 Developer Relations Lead Engineer & Staff Software Engineer, Bridge @[MultiversX](https://github.com/MultiversX)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebegea-dragos-alexandru/)
